@@ -1,0 +1,24 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: 'Montserrat', sans-seri;
+}
+.content p{
+  font-site:14px;
+  line-height:1.6;
+}
+.content img{
+  width:200px;
+  height:200px;
+  float:left;
+  padding: 10px 20px;
+}
